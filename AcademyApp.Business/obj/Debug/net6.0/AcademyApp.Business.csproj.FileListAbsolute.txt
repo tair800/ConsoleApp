@@ -1,0 +1,17 @@
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Business.deps.json
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Business.dll
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Business.pdb
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.DataContext.dll
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Domain.dll
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.DataContext.pdb
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Domain.pdb
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.AssemblyInfo.cs
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.csproj.CopyComplete
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.dll
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\refint\AcademyApp.Business.dll
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.pdb
+C:\Users\Owner\Desktop\ConsoleApp\AcademyApp.Business\obj\Debug\net6.0\ref\AcademyApp.Business.dll

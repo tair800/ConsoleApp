@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AcademyApp.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AcademyApp.DataContext": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AcademyApp.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.Business.dll": {}
+        }
+      },
+      "AcademyApp.DataContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AcademyApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AcademyApp.DataContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.DataContext.dll": {}
+        }
+      },
+      "AcademyApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AcademyApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.Domain.dll": {}
+        }
+      },
+      "AcademyApp.Helpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AcademyApp.Helpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AcademyApp.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademyApp.Business/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.Business/AcademyApp.Business.csproj",
+      "msbuildProject": "../AcademyApp.Business/AcademyApp.Business.csproj"
+    },
+    "AcademyApp.DataContext/1.0.0": {
+      "type": "project",
+      "path": "../DataContext/AcademyApp.DataContext.csproj",
+      "msbuildProject": "../DataContext/AcademyApp.DataContext.csproj"
+    },
+    "AcademyApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApp.Domain/AcademyApp.Domain.csproj",
+      "msbuildProject": "../ConsoleApp.Domain/AcademyApp.Domain.csproj"
+    },
+    "AcademyApp.Helpers/1.0.0": {
+      "type": "project",
+      "path": "../AcademyApp.Helper/AcademyApp.Helpers.csproj",
+      "msbuildProject": "../AcademyApp.Helper/AcademyApp.Helpers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AcademyApp.Business >= 1.0.0",
+      "AcademyApp.Helpers >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Owner\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Owner\\Desktop\\ConsoleApp\\ConsoleApp\\AcademyApp.csproj",
+      "projectName": "AcademyApp",
+      "projectPath": "C:\\Users\\Owner\\Desktop\\ConsoleApp\\ConsoleApp\\AcademyApp.csproj",
+      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Owner\\Desktop\\ConsoleApp\\ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Owner\\Desktop\\ConsoleApp\\AcademyApp.Business\\AcademyApp.Business.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Desktop\\ConsoleApp\\AcademyApp.Business\\AcademyApp.Business.csproj"
+            },
+            "C:\\Users\\Owner\\Desktop\\ConsoleApp\\AcademyApp.Helper\\AcademyApp.Helpers.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Desktop\\ConsoleApp\\AcademyApp.Helper\\AcademyApp.Helpers.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
